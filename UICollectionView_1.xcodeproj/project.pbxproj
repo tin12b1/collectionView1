@@ -15,6 +15,7 @@
 		40C03CEA1EB3845A001EBAD8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40C03CE81EB3845A001EBAD8 /* LaunchScreen.storyboard */; };
 		40C03CF51EB3845B001EBAD8 /* UICollectionView_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C03CF41EB3845B001EBAD8 /* UICollectionView_1Tests.swift */; };
 		40C03D001EB3845B001EBAD8 /* UICollectionView_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C03CFF1EB3845B001EBAD8 /* UICollectionView_1UITests.swift */; };
+		40C03D0E1EB38F02001EBAD8 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C03D0D1EB38F02001EBAD8 /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		40C03CFB1EB3845B001EBAD8 /* UICollectionView_1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UICollectionView_1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		40C03CFF1EB3845B001EBAD8 /* UICollectionView_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UICollectionView_1UITests.swift; sourceTree = "<group>"; };
 		40C03D011EB3845B001EBAD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40C03D0D1EB38F02001EBAD8 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				40C03CDC1EB38459001EBAD8 /* AppDelegate.swift */,
 				40C03CDE1EB38459001EBAD8 /* ViewController.swift */,
 				40C03CE01EB3845A001EBAD8 /* Main.storyboard */,
+				40C03D0D1EB38F02001EBAD8 /* MyCollectionViewCell.swift */,
 				40C03CE61EB3845A001EBAD8 /* Assets.xcassets */,
 				40C03CE81EB3845A001EBAD8 /* LaunchScreen.storyboard */,
 				40C03CEB1EB3845A001EBAD8 /* Info.plist */,
@@ -264,6 +267,7 @@
 			files = (
 				40C03CDF1EB38459001EBAD8 /* ViewController.swift in Sources */,
 				40C03CDD1EB38459001EBAD8 /* AppDelegate.swift in Sources */,
+				40C03D0E1EB38F02001EBAD8 /* MyCollectionViewCell.swift in Sources */,
 				40C03CE51EB3845A001EBAD8 /* UICollectionView_1.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
